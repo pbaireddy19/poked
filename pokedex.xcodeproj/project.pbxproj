@@ -12,6 +12,7 @@
 		2DC5782E1BFC4C2B005432AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DC5782C1BFC4C2B005432AB /* Main.storyboard */; };
 		2DC578301BFC4C2B005432AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DC5782F1BFC4C2B005432AB /* Assets.xcassets */; };
 		2DC578331BFC4C2B005432AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DC578311BFC4C2B005432AB /* LaunchScreen.storyboard */; };
+		2DC5783B1BFC4EB1005432AB /* pokemon_stats.csv in Resources */ = {isa = PBXBuildFile; fileRef = 2DC5783A1BFC4EB1005432AB /* pokemon_stats.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2DC5782F1BFC4C2B005432AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DC578321BFC4C2B005432AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2DC578341BFC4C2B005432AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DC5783A1BFC4EB1005432AB /* pokemon_stats.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon_stats.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				2DC578281BFC4C2B005432AB /* AppDelegate.swift */,
 				2DC5782A1BFC4C2B005432AB /* ViewController.swift */,
 				2DC5782C1BFC4C2B005432AB /* Main.storyboard */,
+				2DC5783A1BFC4EB1005432AB /* pokemon_stats.csv */,
 				2DC5782F1BFC4C2B005432AB /* Assets.xcassets */,
 				2DC578311BFC4C2B005432AB /* LaunchScreen.storyboard */,
 				2DC578341BFC4C2B005432AB /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				2DC578331BFC4C2B005432AB /* LaunchScreen.storyboard in Resources */,
 				2DC578301BFC4C2B005432AB /* Assets.xcassets in Resources */,
+				2DC5783B1BFC4EB1005432AB /* pokemon_stats.csv in Resources */,
 				2DC5782E1BFC4C2B005432AB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
